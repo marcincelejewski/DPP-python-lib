@@ -5,10 +5,10 @@ from time import strftime
 
 class App:
 
-    def __init__(self, current, db_path):
-        self.current = current
+    def __init__(self):
+        self.current = 0
         self.list = []
-        self.conn = sqlite3.connect(db_path)
+        self.conn = sqlite3.connect("C:/Users?Marcin/guidesDB.db")
         cursor = self.conn.execute("select * from guides")
         for row in cursor:
             guide = Guide(row[0], row[1], row[2], row[3], row[4], row[5])
