@@ -1,8 +1,8 @@
 MANIFEST.in
 setup.py
-lib/__init__.py
-lib/app.py
-lib/guide.py
+biblioteka-poradnika/__init__.py
+biblioteka-poradnika/app.py
+biblioteka-poradnika/guide.py
 python_git_lib.egg-info/PKG-INFO
 python_git_lib.egg-info/SOURCES.txt
 python_git_lib.egg-info/dependency_links.txt

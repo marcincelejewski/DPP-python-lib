@@ -1,1 +1,1 @@
-lib
+biblioteka-poradnika
