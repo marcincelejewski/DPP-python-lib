@@ -1,9 +1,0 @@
-MANIFEST.in
-setup.py
-bibliotekaPoradnika/__init__.py
-bibliotekaPoradnika/app.py
-bibliotekaPoradnika/guide.py
-bibliotekaPoradnika.egg-info/PKG-INFO
-bibliotekaPoradnika.egg-info/SOURCES.txt
-bibliotekaPoradnika.egg-info/dependency_links.txt
-bibliotekaPoradnika.egg-info/top_level.txt
