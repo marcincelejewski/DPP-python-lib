@@ -1,3 +1,4 @@
+from setuptools import setup
 setup(
     name='python-git-lib',
     version='1.0',
