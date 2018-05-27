@@ -1,1 +1,1 @@
-Library for guides-app
+Library for guides app

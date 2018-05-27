@@ -6,4 +6,3 @@ MyLib4Guide.egg-info/dependency_links.txt
 MyLib4Guide.egg-info/top_level.txt
 libGuide/__init__.py
 libGuide/app.py
-libGuide/guide.py
