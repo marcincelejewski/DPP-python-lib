@@ -1,3 +1,3 @@
-from library.app import App
+from app import App
 
 print("Inicializacja")
